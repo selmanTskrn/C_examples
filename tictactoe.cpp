@@ -1,3 +1,5 @@
+/* 2 kisilik tic tac toe */
+
 #include <stdio.h>
 
 char matris[3][3] = {'1','2','3','4','5','6','7','8','9'};
