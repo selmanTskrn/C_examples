@@ -1,3 +1,7 @@
+/* Girilen x ve n degerine göre
+
+T = 1 - x/1 + (x^2)/2 - (x^3)/3 +..... (x^n)/n */
+
 #include <stdio.h>
 
 int main ()
